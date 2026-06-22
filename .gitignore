@@ -1,0 +1,23 @@
+# Build Output Directories
+Debug/
+Release/
+build/
+
+# Compiled Object files and Binaries (Fallback)
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Local IDE and Debug Settings
+.settings/
+*.launch
+.mxproject
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+.metadata
